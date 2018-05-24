@@ -1,5 +1,5 @@
 #### Simple implementation of lane detection for game *Road Rash*.
-
+![image](https://github.com/HuGuanwei/Road-Rash-lane-detection/blob/master/demo.gif)
 
 Enlightend by:
 
