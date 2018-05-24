@@ -2,7 +2,9 @@
 
 ![image](https://github.com/HuGuanwei/Road-Rash-lane-detection/blob/master/demo.gif)
 
-vedio demo @: http://v.youku.com/v_show/id_XMzYyNDkyNDEyNA==.html?spm=a2hzp.8244740.0.0
+vedio demo @: 
+1. http://t.cn/R17cD1w 
+2. http://v.youku.com/v_show/id_XMzYyNDkyNDEyNA==.html?spm=a2hzp.8244740.0.0
 
 Enlightend by:
 
